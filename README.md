@@ -1,2 +1,2 @@
 # fullstack-coursework
-To ipmrove is to change.
+To improve is to change.
